@@ -10,9 +10,9 @@
 
 💡 I'm focused on backend development, with the goal of becoming a full-stack engineer in the future.
 
-🌱 I enjoy continuously learning about the tech industry and expanding my knowledge in AWS, Docker, and React.
+🌱 I enjoy continuously learning and expanding my knowledge in the tech industry. Currently, I'm learning more about AWS, Docker, and React.
 
-🤝 I'm always open to connecting with other developers, joining tech communities and events, and learning from others.
+🤝 I'm always open to connecting with other developers, joining tech communities and events, and sharing knowledge and experiences.
 
 ### 🎯 **Hobbies**
 - 🏋️ Sports
@@ -21,7 +21,7 @@
 - ✈️ Traveling
 
 ### 🛠️ **Technologies & Tools**
-![Technologies](https://skillicons.dev/icons?i=html,css,js,ts,nodejs,express,nestjs,jest,java,spring,postgres,mongodb,npm,maven,postman&perline=5)
+![Technologies](https://skillicons.dev/icons?i=html,css,js,ts,nodejs,express,nestjs,jest,java,spring,postgres,mongodb,npm,maven,postman&perline=8)
 
 ### 📫 **Let's Connect**
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/luis-checa-gutierrez/)
