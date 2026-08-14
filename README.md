@@ -15,13 +15,14 @@
 🤝 I'm always open to connecting with other developers, joining tech communities and events, and sharing knowledge and experiences.
 
 ### 🎯 **Hobbies**
-- 🏋️ Sports
-- 🎵 Music
-- 🎬 Movies & Series
+- 🏋️ Exercising
+- 🎵 Listening to Music
+- 🎬 Watching Movies & Series
 - ✈️ Traveling
+- 📚 Learning English
 
 ### 🛠️ **Technologies & Tools**
-![Technologies](https://skillicons.dev/icons?i=html,css,js,ts,nodejs,express,nestjs,jest,java,spring,postgres,mongodb,npm,maven,postman&perline=8)
+![Technologies](https://skillicons.dev/icons?i=html,css,js,ts,nodejs,express,nestjs,jest,java,spring,postgres,mongodb,prisma,npm,maven,postman,docker,aws&perline=9)
 
 ### 📫 **Let's Connect**
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/luis-checa-gutierrez/)
