@@ -4,25 +4,22 @@
 
 <br>
 
-👨‍💻 I'm a **Backend Developer** with 3 years of professional experience and a degree in **Computer Systems Engineering**.
+👨‍💻 **Backend Developer** with 3 years of professional experience and a degree in **Computer Systems Engineering**.
 
-💼 I build and maintain **RESTful APIs and backend systems**, with experience in **serverless and event-driven solutions**, database integration, automated testing, and cloud infrastructure.
+💼 I build and maintain **RESTful APIs and backend solutions** with **Node.js, TypeScript, and NestJS**, focusing on **clean and scalable architectures**, serverless solutions on AWS, database integration, automated testing, and cloud infrastructure.
 
-💡 I'm focused on backend development, with the goal of becoming a full-stack engineer in the future.
+💡 **Focused on backend development**, with the goal of becoming a **full-stack engineer** in the future.
 
-🌱 I enjoy continuously learning and expanding my knowledge in the tech industry. Currently, I'm learning more about AWS, Docker, and React.
+🌱 **Always learning and expanding my knowledge** in the tech industry. Currently exploring **AWS, Docker, and React**.
 
-🤝 I'm always open to connecting with other developers, joining tech communities and events, and sharing knowledge and experiences.
+🤝 Always open to connecting with other developers, joining tech communities, and sharing knowledge and experiences.
 
 ### 🎯 **Hobbies**
 - 🏋️ Exercising
 - 🎵 Listening to Music
-- 🎬 Watching Movies & Series
+- 🎬 Watching Movies & TV Shows
 - ✈️ Traveling
 - 📚 Learning English
 
 ### 🛠️ **Technologies & Tools**
 ![Technologies](https://skillicons.dev/icons?i=html,css,js,ts,nodejs,express,nestjs,jest,java,spring,postgres,mongodb,prisma,npm,maven,postman,docker,aws&perline=9)
-
-### 📫 **Let's Connect**
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/luis-checa-gutierrez/)
