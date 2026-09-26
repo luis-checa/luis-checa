@@ -1,12 +1,8 @@
-<h1 align="center"><b>Hi, I'm Luis Checa </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>Hi, I'm Luis Checa</b> 👋</h1>
 
 <br>
 
-I'm a **Backend Developer** with professional experience building and maintaining **RESTful APIs and cloud-based backend solutions**.
-
-My main stack is **Node.js, TypeScript, and NestJS**, and I work with **AWS serverless solutions** to build backend systems that are clean, maintainable, and scalable.
-
-I hold a degree in **Computer Systems Engineering** and I'm continuously expanding my knowledge in backend development, cloud technologies, infrastructure, and modern software engineering practices.
+I'm a **Backend Developer** with professional experience building and maintaining **RESTful APIs and cloud-based backend solutions**. My main stack is **Node.js, TypeScript, NestJS and PostgreSQL**, and I work with **AWS serverless technologies such as Lambda, API Gateway, S3, SQS, SNS, EventBridge and DynamoDB** to build backend systems that are **clean, maintainable and scalable**. I hold a degree in **Computer Systems Engineering** and I'm continuously growing my knowledge in **backend development, cloud technologies, infrastructure and modern software engineering practices**.
 
 ### 💻 Tech Stack
 
